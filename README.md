@@ -161,7 +161,7 @@ accessguard/
 
 ## 🚀 Getting Started
 
-> ⚠️ The project is under active development. Setup steps below are a template – adjust them to match your implementation.
+> ⚠️ The project is under active development. 
 
 ### Prerequisites
 
